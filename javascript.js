@@ -34,7 +34,7 @@ function gameOver(){
     if(team2Score>team1Score) alert("Team two wins");
     if(team1Score==team2Score) alert("It is a draw");
 
-}
+}  
 
 function resetGame(){
     window.location.reload()
